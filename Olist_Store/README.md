@@ -45,23 +45,23 @@ Finally, the fourth page (MonthDetail) explores order data in greater depth thro
 
 
 
-!\[Preview](<https://raw.githubusercontent.com/4leTorbi/Projects/main/Olist\_Store/images/Homepage.png>)
+!\[Preview]([https://raw.githubusercontent.com/4leTorbi/Projects/main/Olist\_Store/images/Homepage.png](https://raw.githubusercontent.com/4leTorbi/Projects/main/Olist\\_Store/images/Homepage.png))
 
 
 
-!\[Preview](<https://raw.githubusercontent.com/4leTorbi/Projects/main/Olist\_Store/images/Overview.png>)
+!\[Preview]([https://raw.githubusercontent.com/4leTorbi/Projects/main/Olist\_Store/images/Overview.png](https://raw.githubusercontent.com/4leTorbi/Projects/main/Olist\\_Store/images/Overview.png))
 
 
 
-!\[Preview](<https://raw.githubusercontent.com/4leTorbi/Projects/main/Olist\_Store/images/Customers.png>)
+!\[Preview]([https://raw.githubusercontent.com/4leTorbi/Projects/main/Olist\_Store/images/Customers.png](https://raw.githubusercontent.com/4leTorbi/Projects/main/Olist\\_Store/images/Customers.png))
 
 
 
-!\[Preview](<https://raw.githubusercontent.com/4leTorbi/Projects/main/Olist\_Store/images/Shipping.png>)
+!\[Preview]([https://raw.githubusercontent.com/4leTorbi/Projects/main/Olist\_Store/images/Shipping.png](https://raw.githubusercontent.com/4leTorbi/Projects/main/Olist\\_Store/images/Shipping.png))
 
 
 
-!\[Preview](<https://raw.githubusercontent.com/4leTorbi/Projects/main/Olist\_Store/images/Details.png>)
+!\[Preview]([https://raw.githubusercontent.com/4leTorbi/Projects/main/Olist\_Store/images/Details.png](https://raw.githubusercontent.com/4leTorbi/Projects/main/Olist\\_Store/images/Details.png))
 
 
 
