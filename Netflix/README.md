@@ -1,4 +1,4 @@
-\# Netflix Report  🎬  
+\# Netflix Report  🎬
 
 
 
@@ -24,16 +24,20 @@ The goal of the analysis was to classify titles by duration, genre, and rating, 
 
 
 
-\##  🔧 Tool 
+\##  🔧 Tool
 
 * **Power BI**
 * **Power Query**
 
 
 
-\## 📊 Preview
+\## 📊 Previews
 
-!\[Preview](images/preview.png)
+!\[Preview](images/Homepage.png)
+
+!\[Preview](images/Movies.png)
+
+!\[Preview](images/TV\_Series.png)
 
 
 
@@ -41,9 +45,5 @@ The goal of the analysis was to classify titles by duration, genre, and rating, 
 
 
 
-👨‍💻 Author: \[4leTorbi](https://github.com/4leTorbi)  
-
-
-
-
+👨‍💻 Author: \[4leTorbi](https://github.com/4leTorbi)
 
