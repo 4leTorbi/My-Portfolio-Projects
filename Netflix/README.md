@@ -24,7 +24,7 @@ The goal of the analysis was to classify titles by duration, genre, and rating, 
 
 
 
-#### \##  🔧 Tool
+#### \## Tool 🔧 
 
 
 
@@ -33,7 +33,7 @@ The goal of the analysis was to classify titles by duration, genre, and rating, 
 
 
 
-#### \## 📊 Previews
+#### \## Previews 📊
 
 
 
