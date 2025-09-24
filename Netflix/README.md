@@ -45,7 +45,7 @@ The goal of the analysis was to classify titles by duration, genre, and rating, 
 
 
 
-!\[Preview](https://raw.githubusercontent.com/4leTorbi/Projects/main/Netflix/images/TV\_Series.png)
+!\[Preview](https://raw.githubusercontent.com/4leTorbi/Projects/main/Netflix/images/TV_Series.png)
 
 
 
