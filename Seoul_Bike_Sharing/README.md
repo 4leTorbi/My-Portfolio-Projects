@@ -108,7 +108,7 @@ The final page presents the overall findings and conclusions of the analysis.
 
 
 
-#### \##  🔧 Tool
+#### \## Tool  🔧 
 
 
 
@@ -119,7 +119,7 @@ The final page presents the overall findings and conclusions of the analysis.
 
 
 
-#### \## 📊 Previews
+#### \## Previews 📊 
 
 
 
