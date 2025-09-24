@@ -36,7 +36,7 @@ La quarta pagina è dedicata ai potenziali legami tra l'andamento dei noleggi e 
 
 L'ultima pagina è infine dedicata ai risultati ottenuti in sede di analisi.
 
-
+--
 
 EN - This work was carried out using a public dataset retrieved from Kaggle.com, containing real data (aggregated hourly) from Seoul’s public bike sharing service **"Ddareungi"** (known in English as **Seoul Bike**), enriched with data from the Korean Meteorological Administration (collected through the Automated Synoptic Observing System – ASOS).
 
