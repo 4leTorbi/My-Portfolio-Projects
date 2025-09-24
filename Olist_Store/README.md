@@ -8,7 +8,7 @@ La prima pagina di report (Overview) è dedicata ad una panoramica generale di t
 
 In ultimo, la quarta pagina (MonthDetail) approfondisce i dati sugli ordini ricavabili dall'Overview mediante drill-through.
 
-
+--
 
 EN - This project was developed using the public (and anonymized) dataset of the Brazilian e-commerce site **Olist Store**.
 
