@@ -1,4 +1,4 @@
-#### \# Olist Store 🎬
+#### \# Olist Store 📦
 
 
 
@@ -32,7 +32,7 @@ Finally, the fourth page (MonthDetail) explores order data in greater depth thro
 
 
 
-#### \##  🔧 Tool
+#### \## Tool 🔧 
 
 
 
@@ -41,7 +41,7 @@ Finally, the fourth page (MonthDetail) explores order data in greater depth thro
 
 
 
-#### \## 📊 Previews
+#### \## Previews 📊 
 
 
 
