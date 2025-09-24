@@ -123,19 +123,19 @@ The final page presents the overall findings and conclusions of the analysis.
 
 
 
-!\[Preview](https://raw.githubusercontent.com/4leTorbi/Projects/main/Seoul\_Bike\_Sharing/images/Homepage.png)
+!\[Preview](https://raw.githubusercontent.com/4leTorbi/Projects/main/Seoul_Bike_Sharing/images/Homepage.png)
 
 
 
-!\[Preview](https://raw.githubusercontent.com/4leTorbi/Projects/main/Seoul\_Bike\_Sharing/images/Overview.png)
+!\[Preview](https://raw.githubusercontent.com/4leTorbi/Projects/main/Seoul_Bike_Sharing/images/Overview.png)
 
 
 
-!\[Preview](https://raw.githubusercontent.com/4leTorbi/Projects/main/Seoul\_Bike\_Sharing/images/Weather.png)
+!\[Preview](https://raw.githubusercontent.com/4leTorbi/Projects/main/Seoul_Bike_Sharing/images/Weather.png)
 
 
 
-!\[Preview](https://raw.githubusercontent.com/4leTorbi/Projects/main/Seoul\_Bike\_Sharing/images/Correlations.png)
+!\[Preview](https://raw.githubusercontent.com/4leTorbi/Projects/main/Seoul_Bike_Sharing/images/Correlations.png)
 
 
 
