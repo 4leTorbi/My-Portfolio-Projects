@@ -8,7 +8,7 @@ Mi piace definirmi attraverso le 4 C: curioso, qualità che considero il motore 
 
 --
 
-WHO I AM
+WHO AM I 
 
 Junior Data Analyst with a degree in Psychology and a strong passion for astronomy and AI. My background combines an understanding of data and human behavior with technical skills in analysis, modeling, and visualization (Power BI, SQL, Excel, and Python). I work with data to transform it into valuable insights that support strategic decision-making, with the goal of continuously growing as a professional in the field.
 
