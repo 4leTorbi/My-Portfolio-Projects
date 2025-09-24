@@ -10,7 +10,7 @@ L'obiettivo dell'analisi era quello di classificare i titoli in base a durata, g
 * la loro durata media per ciascun genere;
 * i generi più popolari all'interno del catalogo.
 
-
+--
 
 EN - Interactive report developed in **Power BI**, based on a public dataset (available on kaggle.com) containing information about **Netflix’s** catalog of movies and TV shows from 2008 to 2021.
 
